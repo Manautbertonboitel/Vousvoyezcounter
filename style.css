@@ -1,6 +1,6 @@
 body {
-    background: rgb(255,63,0);
-    background: linear-gradient(77deg, rgba(255,63,0,1) 0%, rgba(150,136,232,1) 52%, rgba(0,212,255,1) 100%);
+    background: rgb(0,255,239);
+    background: linear-gradient(214deg, rgba(0,255,239,1) 0%, rgba(251,0,255,1) 100%);
     overflow: hidden;
 }
 
